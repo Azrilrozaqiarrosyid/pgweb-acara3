@@ -1,2 +1,2 @@
 # pgweb-acara3
-Belajar JavaScript praktikum pemorgraman geospasial web acara 3
+Belajar JavaScript praktikum pemrograman geospasial web acara 3
